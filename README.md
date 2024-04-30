@@ -24,3 +24,6 @@ To use this notebook:
 1. Ensure you have Jupyter Notebook or JupyterLab installed.
 2. Launch Jupyter Notebook and open the `GTZAN_classification.ipynb` file.
 3. Run the cells sequentially to observe the workflow from data preprocessing to model evaluation.
+
+## Result
+![下載 (4)](https://github.com/Valerie-Fan/gtzan-audio-classification/assets/164007751/d86dd73f-8552-455d-b64f-db7d090db99b)
